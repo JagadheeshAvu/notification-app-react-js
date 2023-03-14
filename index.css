@@ -1,0 +1,27 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  margin: 20px;
+}
+.notifications-heading {
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: 600;
+  color: #0f172a;
+}
+.notification-container {
+  background-color: #0b69ff;
+  height: 40px;
+  width: 500px;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
+.message {
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: 500;
+}
